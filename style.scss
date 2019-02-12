@@ -1,0 +1,18 @@
+
+/*
+  Import the common theme.
+*/
+@import "./_shared/scss/theme.scss";
+
+/*
+  If you need some CSS for any reason you can put it here.
+*/
+
+.troll{
+	position: absolute;
+}
+
+.content{
+	height: 100%;
+	width: 100%;
+}
